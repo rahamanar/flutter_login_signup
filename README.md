@@ -4,7 +4,8 @@ Login and signup UI design with Animation in flutter...
 <br/>
 <br/>
 
-<img src="https://github.com/rahamanar/flutter_login_signup/blob/master/Assets/login_signup.gif" height="380" width="210">
+<img src="https://github.com/rahamanar/flutter_login_signup/blob/master/Assets/login_signup.gif" height="390" width="230">
+
 # Screenshots 
 
 <img src="https://github.com/rahamanar/flutter_login_signup/blob/master/Assets/Screenshot_1.png" height="500em" style="max-width:100%;">
