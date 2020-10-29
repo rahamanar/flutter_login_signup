@@ -1,6 +1,6 @@
 # login_signup
 
-Login and signup UI design in flutter...
+Login and signup UI design with Animation in flutter...
 
 # Screenshots 
 
