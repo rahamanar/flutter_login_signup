@@ -1,12 +1,13 @@
 # login_signup
 
-A new Flutter project.
-**Welcome to the flutter_login_signup Page**
-
 Login and signup UI design in flutter...
 
 click to see image
 https://ibb.co/T8LP9dM
+
+# Screenshots 
+
+<img src="https://ibb.co/T8LP9dM" height="500em" style="max-width:100%;">
 
 
 Click to download code from repo : https://github.com/rahamanar/flutter_login_signup
